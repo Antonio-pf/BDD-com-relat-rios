@@ -1,0 +1,15 @@
+{
+  "name": "Reqnroll Calculator Tests",
+  "output": "./allure-report",
+  "historyPath": "./allure-history.jsonl",
+  "plugins": {
+    "awesome": {
+      "options": {
+        "reportName": "Reqnroll Test Report",
+        "singleFile": false,
+        "reportLanguage": "en",
+        "groupBy": ["feature", "story"]
+      }
+    }
+  }
+}

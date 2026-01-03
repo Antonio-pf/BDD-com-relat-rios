@@ -1,0 +1,36 @@
+# Reqnroll generated files
+*.feature.cs
+
+# Allure 
+allure-results/
+allure-report/
+allure-history.jsonl
+
+# Build results
+bin/
+obj/
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+Folder.DotSettings.user
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.rsuser
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+
+# Node modules 
+node_modules/
+.node_modules/
+
+.loop/
+
+.DS_Store
+Thumbs.db
